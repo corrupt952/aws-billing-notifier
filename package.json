@@ -1,0 +1,10 @@
+{
+  "name": "billingNotifierOnLambda",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "latest",
+    "request": "latest",
+    "aws-sdk": "latest"
+  }
+}

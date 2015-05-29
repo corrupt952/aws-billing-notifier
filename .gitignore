@@ -1,0 +1,4 @@
+*.csv
+*.zip
+config.json
+node_modules/
