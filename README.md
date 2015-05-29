@@ -1,4 +1,4 @@
-# AWS Billing notifier
+# AWS Billing notifier on lambda
 
 ## Create AWS Lambda function
 1. `$ cp config.json.example config.json`
