@@ -91,7 +91,7 @@ exports.handler = function(event, context) {
               console.log("Status: " + response.statusCode);
               context.succeed();
             } else {
-              context.fail('Error', "Error Slack: " + error.message);
+              context.fail('Error', "Error Slack: " + error);
             }
           });
         } else {
